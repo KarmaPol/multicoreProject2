@@ -1,0 +1,21 @@
+
+	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8öáœäö1J$4a3413ea-03fe-45e9-ba98-224def17317e
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï‹®§8…Óšäö1J$f8331456-d3e9-4d2e-ba17-bb5fc39bfe90
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÕåóÿÿÿÿÿ8†Óšäö1J$406f11b1-89cf-4df0-bd83-39052c15e69d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò¬Ø“8†Óšäö1J$cdeb7aee-3050-4ce7-9451-0f419ea7bd02
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ŠÓšäö1J$12a59741-cbd8-4730-a816-38f8ee04611c
+r	java:S106"+Replace this use of System.out by a logger.(³¨Ùèıÿÿÿÿ8‹Óšäö1J$32172334-7ea7-4b87-aa0a-2fbbfef809f2
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬Àáªøÿÿÿÿ8‹Óšäö1J$b9d34685-825b-4959-b0a1-51987f8282b3
+p	java:S108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8‹Óšäö1J$b4537b51-97b8-4f64-ba93-2aa3cf1ef037
+m	java:S106"+Replace this use of System.out by a logger.(áÁ¢¶8‹Óšäö1J$4e30d208-b72c-463d-97d3-2bf61ff9f0b7
+m
+java:S1197"*Move the array designators [] to the type.(“¶«8ŒÓšäö1J$d77e9ae8-af75-4197-a90a-42fbbe9b3d1b
+¡
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ŒÓšäö1J$8738f34e-44cc-4585-befb-0cc568883fd2
+}
+java:S2209!"5Change this instance-reference to a static reference.(®ºòÕıÿÿÿÿ8âœäö1J$fef0fda3-9134-480a-a5ea-e40ac49d1f4a
+¦
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8ƒâœäö1J$6a88d676-fee2-4d6e-add1-0b4c24a01dc3
+p	java:S108*")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8ŒÓšäö1J$bda3d532-8059-489c-aa58-25b15cbf3fa5

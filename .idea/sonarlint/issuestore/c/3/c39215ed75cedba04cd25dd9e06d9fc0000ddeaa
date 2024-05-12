@@ -1,0 +1,25 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÿ»ùÿÿÿÿ8ÀÇâßö1J$d1de3246-0503-4251-9cc0-42cc61bdd34d
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÊÇâßö1J$f50166ef-08cd-4ad0-99a9-60804fd2e32f
+r	java:S106*"+Replace this use of System.out by a logger.(„–¯²ùÿÿÿÿ8ÈÇâßö1J$e8b1c368-1832-4b84-927f-5c230cc8b143
+m	java:S1060"+Replace this use of System.out by a logger.(½èÉ×8ÉÇâßö1J$23d25338-e8ee-44bc-b64e-2aee855b6976
+m	java:S1066"+Replace this use of System.out by a logger.(‡ çç8ÉÇâßö1J$d8e53645-00a2-4f88-9732-acc10cb05009
+•	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şµƒØøÿÿÿÿ8ÉÇâßö1J$126feb43-6f58-4a8d-8e7d-1c2d47be3ac2
+r	java:S106;"+Replace this use of System.out by a logger.(¦¥Ó÷ûÿÿÿÿ8ÉÇâßö1J$36d2aa16-15e6-404b-94f5-71d17707cd3d
+}
+java:S1161>":Add the "@Override" annotation above this method signature(“–ış8ÊÇâßö1J$1ec97854-ee2e-42fc-9067-9f4d5d881f4d
+¦
+java:S2142B"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8ËÇâßö1J$436bedec-f8fe-40f0-a6c0-4ddf1ab0b6d1
+l
+java:S2140A")Use "java.util.Random.nextInt()" instead.(ÊåßĞ8ÊÇâßö1J$e98fe9ea-3e78-4c26-80fc-d6cc502dacda
+p	java:S108B")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8ÊÇâßö1J$8373460d-bd91-49d0-848a-ef0c4c88366f
+¦
+java:S2142H"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8ÜÀãßö1J$a24d9377-1220-4169-a059-2988bba062ce
+l
+java:S2140G")Use "java.util.Random.nextInt()" instead.(êıÌš8ËÇâßö1J$f5b67273-0cef-4949-9c71-6ac6e954af30
+p	java:S108H")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8ËÇâßö1J$144e5c28-567d-4bfc-86a0-4c0d24cbd3f8
+}
+java:S1854V"5Remove this useless assignment to local variable "c".( ‚™¿ùÿÿÿÿ8ÌÇâßö1J$2d066f3b-1b62-4d44-9f35-4649fe9811c1
+n
+java:S1481V"&Remove this unused "c" local variable.( ‚™¿ùÿÿÿÿ8ÍÇâßö1J$a54a710c-608a-4c73-bd5b-4f5a883ae2aa

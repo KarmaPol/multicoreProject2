@@ -1,0 +1,21 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹™ôàÿÿÿÿÿ8ˆûÛáö1J$28c18327-eab1-4acd-b68e-731113d0de3a
+”	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÕåóÿÿÿÿÿ8ˆûÛáö1J$e902325f-58f0-4ccb-b572-973b94f34ee1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò¬Ø“8ˆûÛáö1J$8e778778-1a0b-410a-95d8-1173066f0b2f
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ŒûÛáö1J$b82314de-96a2-48e0-a425-ea97ed85948d
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8ŒûÛáö1J$313bf6da-fd0a-4c12-9141-e457551cd807
+r	java:S106"+Replace this use of System.out by a logger.(³¨Ùèıÿÿÿÿ8¨Ÿàáö1J$2fee666f-1ff0-4d4e-96cf-ce329f817690
+q
+java:S2140")Use "java.util.Random.nextInt()" instead.(‡†É©ùÿÿÿÿ8ûÛáö1J$84ddedc7-e857-4f9a-8b2c-48d1ba1ea062
+p	java:S108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8ûÛáö1J$f9129c9a-161f-41f9-a0d4-0cf5d6c5d5b9
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8İ¬Üáö1J$d7fb18cf-d302-4e00-8438-331d26607955
+m	java:S106"+Replace this use of System.out by a logger.(áÁ¢¶8·åááö1J$312ef2ac-13b0-4b7b-a866-935e8bdfa5a2
+p	java:S108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8ûÛáö1J$67309993-d3e5-4e68-8678-daf353e364fd
+r
+java:S1197"*Move the array designators [] to the type.(ˆ¥ÕÌøÿÿÿÿ8Ä±ßáö1J$244b1bf4-bd22-4b52-9c13-cd812b98f60a
+¦
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8¼ïäáö1J$029035e6-afa7-4593-a871-592cb69def8a
+p	java:S108(")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8¼ïäáö1J$947473c2-0fb2-434c-91aa-63627f3f73c8

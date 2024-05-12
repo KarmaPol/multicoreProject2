@@ -1,0 +1,20 @@
+
+›
+java:S1192"SDefine a constant instead of duplicating this literal ": Current number: " 3 times.(£Â»µúÿÿÿÿ8²‹ƒäö1J$03f91b77-2c2f-4b0e-ba8c-0f0f60b6bd8f
+
+java:S1192"HDefine a constant instead of duplicating this literal "Thread " 5 times.(³¨Ùèıÿÿÿÿ8å¸‚äö1J$7ffbb87d-5477-463c-9d47-f295a2ed0319
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(å“Ğ¹8šö÷ãö1J$07b95c1d-9ac5-415d-bdf7-22a36288da4b
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÕåóÿÿÿÿÿ8šö÷ãö1J$acbda955-9d3b-45c3-94dd-77886d93e620
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò¬Ø“8›ö÷ãö1J$592b078c-350d-4b77-99aa-bfe65e30b732
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8¡ö÷ãö1J$1389ceda-3e49-478f-b53a-94287c2ecaad
+r	java:S106"+Replace this use of System.out by a logger.(³¨Ùèıÿÿÿÿ8¢ö÷ãö1J$58b919c4-530c-47a3-8286-66820b3d00f8
+r	java:S106"+Replace this use of System.out by a logger.(£Â»µúÿÿÿÿ8¢ö÷ãö1J$1cd2f1c9-b378-407e-beec-10cde44f37cd
+m	java:S106"+Replace this use of System.out by a logger.(õ¯ÿ8¢ö÷ãö1J$f25825b1-7bcc-44f5-9421-a6248650c456
+r	java:S106"+Replace this use of System.out by a logger.(ƒ¸Şøÿÿÿÿÿ8¢ö÷ãö1J$44a32586-f3f9-45c8-a1ac-93f0fc3b3b91
+m	java:S106"+Replace this use of System.out by a logger.(áÁ¢¶8˜Ùûãö1J$d4baaac5-5273-4461-934e-0ed73e8025ab
+m
+java:S1197"*Move the array designators [] to the type.(“¶«8£ö÷ãö1J$b566665f-4f03-4ad8-9d6c-08a3d1b5bb3b
+¦
+java:S2142$"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8£ö÷ãö1J$6c927c73-995c-4cf4-b6b9-dcf855c2f719
+p	java:S108$")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8¤ö÷ãö1J$086de242-e019-40d0-8d9a-4620f68656fc

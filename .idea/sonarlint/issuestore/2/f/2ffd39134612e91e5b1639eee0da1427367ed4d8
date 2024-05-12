@@ -1,0 +1,28 @@
+
+]
+java:S1220""Move this file to a named package.8ÈÉëŞö1J$91eecce1-399b-4514-8893-138ba73915a4
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÕÉëŞö1J$b5364c5e-5c92-499d-a5a3-4d7149bd284a
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÖÉëŞö1J$674fd0fd-4ccc-41a0-925b-1fb153a191d9
+r	java:S106("+Replace this use of System.out by a logger.(„–¯²ùÿÿÿÿ8ØÉëŞö1J$1e2ce8c9-6724-4c22-882e-98e27f5a7257
+m	java:S106."+Replace this use of System.out by a logger.(½èÉ×8ØÉëŞö1J$389da60f-f569-4068-a35d-4ca0f4846c78
+m	java:S1064"+Replace this use of System.out by a logger.(‡ çç8ÙÉëŞö1J$603ff90f-889b-46d3-8137-34d4b7bb3c62
+•	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şµƒØøÿÿÿÿ8ÙÉëŞö1J$82ba4161-bd3e-44c8-9e2e-bb56c9c4ebe7
+r	java:S1069"+Replace this use of System.out by a logger.(¦¥Ó÷ûÿÿÿÿ8ÙÉëŞö1J$ed5d708e-6258-4c3d-94e2-361098d1fbb8
+}
+java:S1161<":Add the "@Override" annotation above this method signature(“–ış8ÚÉëŞö1J$3adbdf2f-ffea-4565-b882-43fac2535558
+¦
+java:S2142@"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8ÚÉëŞö1J$a5418639-eb17-4774-8d0c-9845d9ba8607
+l
+java:S2140?")Use "java.util.Random.nextInt()" instead.(ÊåßĞ8ÛÉëŞö1J$6f867409-5fa3-4070-a66b-d1db02761cff
+p	java:S108@")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8ÛÉëŞö1J$df6e9a8c-ce50-41d6-abb3-e0461e1b7140
+¦
+java:S2142F"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8ÛÉëŞö1J$753f0e8d-b9d6-4b3c-be2f-d6e9a5bd697f
+l
+java:S2140E")Use "java.util.Random.nextInt()" instead.(êıÌš8ÛÉëŞö1J$1e1dd7dd-e9d1-491a-9804-0171754d0810
+p	java:S108F")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8ÜÉëŞö1J$6f627403-501c-4782-a557-402e2a9d010c
+}
+java:S1854T"5Remove this useless assignment to local variable "c".( ‚™¿ùÿÿÿÿ8İÉëŞö1J$9cb5ee05-3e6a-438b-a381-22e0db3e7f27
+n
+java:S1481T"&Remove this unused "c" local variable.( ‚™¿ùÿÿÿÿ8İÉëŞö1J$3d905b42-8456-4848-8554-6478bca43a5a
